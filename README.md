@@ -1,6 +1,7 @@
 
 # Projeto: Análise de Dados com Python
-**Integrantes:**Fabricio Lopes de Aguiar
+**Integrantes:** Fabricio Lopes de Aguiar
+
 "Sistema CLI de análise de vendas de jogos usando Pandas, Matplotlib e Seaborn".
 
 **Disciplina:** Linguagem de Programação em Python (2026.2)  
